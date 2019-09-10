@@ -16,6 +16,8 @@ export default createGlobalStyle`
 
   body {
     box-sizing: border-box;
+    color: #fff;
+    background: #252525;
     font-family: 'Source Sans Pro', sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased !important;

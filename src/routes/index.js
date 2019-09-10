@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import Main from '../pages/Main'
-import SignIn from '../pages/SignIn'
-import SignUp from '../pages/SignUp'
+import SignIn from '../pages/Auth/SignIn'
+import SignUp from '../pages/Auth/SignUp'
 
 function Routes() {
   return (
